@@ -86,53 +86,16 @@ header .container {
     margin-bottom: 20px;
 }
 
-.features h2, .contact h2 {
+.features h2, .contact h2, .support h2 {
     text-align: center;
     margin-bottom: 30px;
 }
 
-.contact {
+.contact, .support {
     padding: 50px 0;
 }
 
 .contact form {
     max-width: 600px;
     margin: auto;
-    background: #fff;
-    padding: 20px;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-}
-
-.contact label {
-    display: block;
-    margin-bottom: 10px;
-    color: #333;
-}
-
-.contact input, .contact textarea {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 20px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-}
-
-.contact .btn {
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 18px;
-    background: #0779e4;
-    color: #fff;
-    border: none;
-    cursor: pointer;
-    text-decoration: none;
-}
-
-footer {
-    background: #333;
-    color: #fff;
-    text-align: center;
-    padding: 20px 0;
-    margin-top: 20px;
-}
+    background
